@@ -83,6 +83,13 @@ a:hover {
   color: #ffffff;
 }
 
+#mockup {
+  width: 100%;
+  height: auto;
+  margin: auto;
+  padding: 1.8rem;
+}
+
 #copyright {
   width: 100%;
   padding: 1rem;
@@ -100,4 +107,11 @@ a:hover {
   #hero-heading {
     font-size: 3rem;
   }
+  
+  #mockup {
+   width: 66%;
+   height: auto;
+   margin: auto;
+   padding: 1.8rem;
+}
 }
