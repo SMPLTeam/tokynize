@@ -74,11 +74,11 @@ a:hover {
 }
 
 #header-logo {
-  max-width: 72%;
+  max-width: 66%;
 }
 
 #hero-heading {
-  font-size: 3rem;
+  font-size: 1.8rem;
   text-align: center;
   color: #ffffff;
 }
@@ -87,4 +87,15 @@ a:hover {
   text-align: center;
   position: absolute;
   bottom: 0;
+}
+
+@media only screen and (min-width: 600px) {
+  
+  #header-logo {
+    max-width: 33%;
+  }
+  
+  #hero-heading {
+    font-size: 3rem;
+  }
 }
