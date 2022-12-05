@@ -87,8 +87,7 @@ a:hover {
   display: block;
   width: 100%;
   height: auto;
-  margin: auto;
-  padding: 1.8rem;
+  margin: 1.8rem auto;
   border: solid 1px #ffffff;
   border-radius: 8px;
 }
