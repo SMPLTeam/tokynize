@@ -39,9 +39,12 @@ a:hover {
 }
 
 #navbar,
-#site-logo,
 #navbar-link {
   padding: .6rem;
+}
+
+#site-logo {
+  max-width: 48px; 
 }
 
 #navbar {
