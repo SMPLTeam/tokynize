@@ -1,17 +1,17 @@
 {
-  "baseURL": "https://hello.world",
-  "author": "hello.world",
-  "description": "hello.world - Venture Capital",
-  "title": "hello.world - Venture Capital",
+  "baseURL": "https://tokynize.com",
+  "author": "Tokynize by SMPL",
+  "description": "Tokynize – Turn real objects into 3D NFTs right on your mobile device!",
+  "title": "Tokynize™",
   "language": "en",
   "social": [
     {
       "title": "Twitter",
-      "url": "https://twitter.com/#"
+      "url": "https://twitter.com/tokynize"
     },
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/company/#"
+      "url": "https://linkedin.com/in/tokynize"
     }
   ]
 }
