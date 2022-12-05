@@ -20,6 +20,8 @@ body {
   font-weight: 400;
   line-height: 1.2;
   text-size-adjust: none;
+  background-image: src("bg.svg");
+  background-repeat: repeat;
 }
 
 h1, h2, h3,
