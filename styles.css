@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.small-pad {
+  padding: 1.2rem;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: normal;
+  font-weight: 400;
+  line-height: 1.2;
+  text-size-adjust: none;
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+  font-weight: 700;
+}
+
+p, a {
+  color: #333333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #666666;
+}
+
+#navbar,
+#site-logo,
+#navbar-link {
+  padding: .6rem;
+}
+
+#navbar {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: center;
+  border-bottom: solid 1px #666666;
+}
+
+#navbar-links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#navbar-link {
+  font-weight: 700;
+}
+
+#landing-header {
+  display: flex;
+  flex-direction: column;
+  min-height: 150px;
+  padding: 1.2rem;
+  background-image: url("tokynize_hdr_bg.jpg");
+  justify-content: center;
+  align-items: center;
+}
+
+#hero-heading {
+  font-size: 3rem;
+  text-align: center;
+  color: #ffffff;
+}
+
+#video-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1.2rem;
+}
+
+#video-clip {
+  max-width: 60%;
+  height: auto;
+  border-radius: 1rem;
+}
+
+#copyright {
+  text-align: center;
+}
