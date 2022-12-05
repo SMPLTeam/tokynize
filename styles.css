@@ -88,6 +88,7 @@ a:hover {
   height: auto;
   margin: auto;
   padding: 1.8rem;
+  border-radius: 8px;
 }
 
 #copyright {
