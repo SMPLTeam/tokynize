@@ -73,6 +73,10 @@ a:hover {
   align-items: center;
 }
 
+#header-logo {
+  max-width: 72%;
+}
+
 #hero-heading {
   font-size: 3rem;
   text-align: center;
