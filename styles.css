@@ -84,10 +84,12 @@ a:hover {
 }
 
 #mockup {
+  display: block;
   width: 100%;
   height: auto;
   margin: auto;
   padding: 1.8rem;
+  border: solid 1px #ffffff;
   border-radius: 8px;
 }
 
