@@ -76,20 +76,6 @@ a:hover {
   color: #ffffff;
 }
 
-#video-section {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 1.2rem;
-}
-
-#video-clip {
-  max-width: 60%;
-  height: auto;
-  border-radius: 1rem;
-}
-
 #copyright {
   text-align: center;
 }
